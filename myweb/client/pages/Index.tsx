@@ -144,7 +144,7 @@ const HeroSection = () => {
               <div className="absolute -bottom-8 -left-8 w-40 h-40 bg-primary rounded-full opacity-40 blur-lg"></div>
               <div className="relative bg-gradient-to-br from-primary/20 to-primary/30 rounded-3xl overflow-hidden border-8 border-primary/20 shadow-2xl">
                 <img
-                  src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500&h=500&fit=crop"
+                  src="../kiduss.jpg"
                   alt="Kidus David"
                   className="w-full h-full object-cover"
                 />
